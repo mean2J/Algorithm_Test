@@ -6,5 +6,6 @@
 ## 진행사항
 | 챕터명 | 설명 | 링크 | 기간 |
 | ------ | ------ | ------ | ------ |
-| 탐색 | DFS / BFS & 적용 & 실전 | [Click](https://github.com/mean2J/Algorithm_Test/tree/main/DFS%26BFS) | 2023.01.01 ~ 2023.01.07 |
+| 탐색 | DFS / BFS & 적용 & 실전 | [Click](https://github.com/mean2J/Algorithm_Test/tree/main/DFS%26BFS) | 2023.01.01 ~ 2023.01.08 |
+| 정렬 | 정렬과 복잡도 | - | 2023.01.09 ~ 2023.01.15 |
 | - | - | - | - |
