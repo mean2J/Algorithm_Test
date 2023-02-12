@@ -8,4 +8,5 @@
 | ------ | ------ | ------ | ------ |
 | 탐색 | DFS / BFS & 적용 & 실전 | [Click](https://github.com/mean2J/Algorithm_Test/tree/main/DFS%26BFS) | 2023.01.01 ~ 2023.01.08 |
 | 정렬 | 정렬과 복잡도 | [Click](https://github.com/mean2J/Algorithm_Test/tree/main/sort) | 2023.01.09 ~ 2023.01.15 |
-| - | - | - | - |
+| 문제풀이 | 문제풀이 | [Click](https://github.com/mean2J/Programmers) | 2023.01.23 ~ 2023.01.29 |
+| 이진탐색 | 이진탐색 | [Click](https://github.com/mean2J/Algorithm_Test/tree/main/Search) | 2023.02.06 ~ 2023.02.12 |
